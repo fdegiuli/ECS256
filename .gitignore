@@ -3,3 +3,11 @@
 
 # Example code in package build process
 *-Ex.R
+
+# Temporary and swap files
+*~
+[#]*[#]
+.\#*
+*.tmp
+*.swp
+
